@@ -3,12 +3,14 @@
 Specification for the la-titube awesome project
 
 A quoi sert l'application La titube :
- _ connaître ses stocks en terme d'alcool mais aussi d'ingrédients.
- _ avoir accés à une multitude de recette de cocktail
- _ faire évoluer ses stocks en fonction de la soirée (faire un cocktail diminue les stocks)
+
+* connaître ses stocks en terme d'alcool mais aussi d'ingrédients.
+* avoir accés à une multitude de recette de cocktail
+* faire évoluer ses stocks en fonction de la soirée (faire un cocktail diminue les stocks)
 
 Comment on accède à l'application :
- _ connexion & inscription classico del madrido
+
+* connexion & inscription classico del madrido
 
 ## User story
 
@@ -16,13 +18,15 @@ Un utilisateur inscrit peut accéder à sa cave et inviter des visiteurs dans sa
 Le visiteur peut simplement voir la carte des cocktails disponibles.
 
 Un utilisateur peut modifier sa cave :
- _ gros CRUD sa mère
+
+* gros CRUD sa mère
 
 Un utilisateur peut ajouter des recettes aux recettes de base :
- _ gros CRUD sa mère aussi
- _ option de fork à un cocktail
- _ pour chaque recette des commentaires
- _ OPTIONNEL : notes ?
+
+* gros CRUD sa mère aussi
+* option de fork à un cocktail
+* pour chaque recette des commentaires
+* OPTIONNEL : notes ?
 
 Un utilisateur peut faire un cocktail (conséquences: cave en pls)
 
@@ -47,11 +51,13 @@ __utilisateur__ : un utilisateur est une personne qui possède une cave, et qui 
 ## TechnoProps
 
 Backend : stack classique 2020
- --> NODE léger, moderne et on connait tous
- --> MONGODB : moins de jointure, et puis esther quoi !
- --> JEST : pour les tests, facile de mocker, c'est joli, du coup c'est cool
+
+* --> NODE léger, moderne et on connait tous
+* --> MONGODB : moins de jointure, et puis esther quoi !
+* --> JEST : pour les tests, facile de mocker, c'est joli, du coup c'est cool
 
 Frontend:
- --> REACT : par défaut
- --> REDUX : par obligation
- --> 
+
+* --> REACT : par défaut
+* --> REDUX : par obligation
+* -->
