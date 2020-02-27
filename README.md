@@ -64,5 +64,10 @@ Frontend:
 
 Gestion:
 
-* --> Gitflow
+* --> Gitflow [Doc](https://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html)
 * --> Quire
+
+Déploiement
+
+* --> Docker
+* --> Docker-compose
