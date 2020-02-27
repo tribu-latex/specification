@@ -61,3 +61,8 @@ Frontend:
 * --> REACT : par défaut
 * --> REDUX : par obligation
 * -->
+
+Gestion:
+
+* --> Gitflow
+* --> Quire
