@@ -66,3 +66,12 @@ Gestion:
 
 * --> Gitflow
 * --> Quire
+
+## Few steps to begin 
+
+- CRUD Bottle - avec le back connecté à une DB Mango et le front React - Redux. Pas d'utilisateur pour le moment
+  - Type
+  - Volume
+  - Marque (fac)
+  - Degré (fac)
+  - Prix (fac)
