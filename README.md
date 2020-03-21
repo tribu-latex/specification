@@ -50,22 +50,21 @@ __utilisateur__ : un utilisateur est une personne qui possède une cave, et qui 
 
 ## TechnoProps
 
-Backend : stack classique 2020
+**Backend**: stack classique 2020
 
-* --> NODE léger, moderne et on connait tous
-* --> MONGODB : moins de jointure, et puis esther quoi !
-* --> JEST : pour les tests, facile de mocker, c'est joli, du coup c'est cool
+* NODE : léger, moderne et on connait tous
+* MONGODB : moins de jointure, et puis esther quoi !
+* JEST : pour les tests, facile de mocker, c'est joli, du coup c'est cool
 
-Frontend:
+**Frontend**:
 
-* --> REACT : par défaut
-* --> REDUX : par obligation
-* -->
+* REACT : par défaut
+* REDUX : par obligation
 
-Gestion:
+**Gestion**:
 
-* --> Gitflow
-* --> Quire
+* Gitflow
+* Quire
 
 ## Few steps to begin 
 
