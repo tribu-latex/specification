@@ -52,20 +52,24 @@ __utilisateur__ : un utilisateur est une personne qui possède une cave, et qui 
 
 **Backend**: stack classique 2020
 
-* NODE : léger, moderne et on connait tous
-* MONGODB : moins de jointure, et puis esther quoi !
-* JEST : pour les tests, facile de mocker, c'est joli, du coup c'est cool
+* [NODE](https://nodejs.org/en/docs/) : léger, moderne et on connait tous
+* [MONGODB](https://docs.mongodb.com/) : moins de jointure, et puis esther quoi !
+* [JEST](https://jestjs.io/docs/en/getting-started) : pour les tests, facile de mocker, c'est joli, du coup c'est cool
 
 **Frontend**:
 
-* REACT : par défaut
-* REDUX : par obligation
+* [REACT](https://reactjs.org/docs/) : par défaut
+* [REDUX](https://redux.js.org/introduction/getting-started) : par obligation
 
 **Gestion**:
 
-* Gitflow
-* Quire
+* [Gitflow](https://danielkummer.github.io/git-flow-cheatsheet/index.fr_FR.html)
+* [Quire](https://quire.io/)
 
+Déploiement
+
+* [Docker](https://docs.docker.com/)
+* [Docker-Compose](https://docs.docker.com/compose/)
 ## Few steps to begin 
 
 - CRUD Bottle - avec le back connecté à une DB Mango et le front React - Redux. Pas d'utilisateur pour le moment
